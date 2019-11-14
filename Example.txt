@@ -1,3 +1,5 @@
 This is an example text: 11-14-2019 16:41
 
 This is a new line: 11-14-2019 16:43
+
+This is a 2nd new line 11-14-2019 16:44
